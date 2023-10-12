@@ -11,7 +11,7 @@ Vahid Tursunovdanmı?
 O menimnen musafirlikte...
 Kelgeninden beri ağızından eki söz çıqmadı.
 Şimdi qıp-qırmızı sarğuş.
-İçe Bere…
+%
 O da yanıqlı.
 Duydırmaq istemey.
 Men Böyle tüşüneyatqanda Mansurov yerinden turdı.
@@ -73,13 +73,15 @@ Lâkin qartaydım..."
 Poyezd Sızranğa yaqınlar.
 Andrey Zaharoviç pencerege işaret etip: "A!
 İdil!
-İdilni tanıysıñmı?— dep sorar. — Tanımaysıñ?
+İdilni tanıysıñmı?— dep sorar.
+— Tanımaysıñ?
 E? Ebet, bizim İdil tanılmaz oldı."
 
 Men taaciplenirim: taqdir hucur şey eken, derim.
 Almazov yaş ve küçlü ekende Tân-Şanda, Dneprde, Badahşanda yaşadı, qartlığında doğmuş toprağına qaytıp kelgen.
 
-Maña Sızrannı ikâye etkeniñiz hatiriñizdemi, Andrey Zaharoviç?— derim men oña. — Aylanma kanalnıñ bitüvi munasebetinen eviñizde olğan ziyafet... esiñizdemi?
+Maña Sızrannı ikâye etkeniñiz hatiriñizdemi, Andrey Zaharoviç?— derim men oña.
+— Aylanma kanalnıñ bitüvi munasebetinen eviñizde olğan ziyafet... esiñizdemi?
 
 — Menmi?— der Andrey Zaharoviç, ayretlenip,— toqta...
 Çar-Çaqta öyle şey olğanmı edi?
@@ -110,8 +112,7 @@ Nasıl eylik!— Elini omuzımnıñ üstüne qoydı.
 — Gizliden... yolğa çıq!
 İradanıñ qapusını qaq!
 Onıñ evinde neler olayata, episini bil!
-Yabaniy adam olmasa, İradadan yavaşçıqtan: "Cevdet kelmek istey.
-Mümkünmi?" dep sora.
+Yabaniy adam olmasa, İradadan yavaşçıqtan: "Cevdet kelmek istey.Mümkünmi?" dep sora.
 Cevabını kelip maña ayt!
 Rica etem, Karim!
 
@@ -162,23 +163,28 @@ Er kes sustı, musafirge eleslenip baqtı.
 
 — Beklemegen ediñizmi?— dedi Arhipka, adamlarnıñ közlerindeki ayretni eslep.
 Artına aylanıp, köridor bette, kimgedir: — Kir!— dep qıçırdı.
-Bosaga üstünde Rahil köründi. —Tanış oluñız!— Şay degende, sandıq üstünde oturğan Hristofornı körip, şaşmaladı.
+Bosaga üstünde Rahil köründi.
+—Tanış oluñız!— Şay degende, sandıq üstünde oturğan Hristofornı körip, şaşmaladı.
 Hristofor aqırından yerinden turıp, Arhipkağa doğru adımladı.
 Evniñ içi çım-çırt kesildi.
 Kandıba yerinden qıbırdamay, Arhipkağa baqıp oturdı.
 
 — Kerekmey!
-Kerekmey, Hrist!— dep qıçırdı Rahil. — Yalvaram saña!
+Kerekmey, Hrist!— dep qıçırdı Rahil.
+— Yalvaram saña!
 
-— Sen qarışma!— dedi Hristofor. — Men oña toqunmaycağım.
+— Sen qarışma!— dedi Hristofor.
+— Men oña toqunmaycağım.
 Körüşmegenimiz ne qadar vaqıt oldı, Arhipka?
 
 Arqasını şkafqa tayandırıp turğan Toqtabayev yavaştan Nikolay betke cılıştı.
 Mansurov bunı seze qaldı, o da Toqtabayevniñ yanına kelip oturdı.
 Nikolay, omuzlarını qısıp, köküsini içke çekti, yerinden qıbırdamadı.
 
-— Ne keldiñ?— Yekaterina Vasilyevna oña dülber qaşlarını sıttı. — Coyul mından!
-Sen de!— dedi o, Rahilge çevirilip,— Menim evimde işiñiz yoq.
+— Ne keldiñ?— Yekaterina Vasilyevna oña dülber qaşlarını sıttı.
+— Coyul mından!
+Sen de!— dedi o, Rahilge çevirilip.
+— Menim evimde işiñiz yoq.
 
 Arhipka, tilki kibi, kevdesini üç büklep, negedir tedariklendi.
 
@@ -197,7 +203,8 @@ Arhipka, niayet, büklenip turğan kevdesini doğrulttı, soñ külümsiredi.
 — Kelgensiñ... bare, dürüs otur!— dedi Hristofor ve közünden aşağı tayğan qara paçavranı çekip tüzetti. — Buyur!
 
 — Menmi?— o elini Hristoforğa uzattı, ğaliba, onıñ ile selâmlaşmaq istedi.
-Hristofor, abaylamağan olıp, kürsüni körsetti: — Otur! — dedi oña.
+Hristofor, abaylamağan olıp, kürsüni körsetti:
+— Otur! — dedi oña.
 Musafirni stolğa, evniñ saibi degil de, Hristofor davet etüvi kerginlikni yımşattı.
 
 — Şorbacı qayda?— dep soradı Hristofor,— raqı qoyıñız!
@@ -215,7 +222,8 @@ Sen mında kimsiñ?
 Ne vaqıt çıqtıñ?
 
 — Eki kün evelsi...
-Siz küçlü kişiler ekensiñiz, ümüt etmegen edim,— dedi Arhipka, soñ qalaynı alıp, bir nefesten içip yiberdi. — Men evlendim.
+Siz küçlü kişiler ekensiñiz, ümüt etmegen edim,— dedi Arhipka, soñ qalaynı alıp, bir nefesten içip yiberdi.
+— Men evlendim.
 
 — İşittik...
 
@@ -273,7 +281,8 @@ Mansurov Arhipkanı üyteklep, tışarı alıp çıqtı, Soñ Arhipkanıñ davu�
 Karim ımpıs-tımpıs kirip keldi.
 Onıñ artından Mansurov peyda oldı.
 
-— Ketti...— dedi Mansurov. — Alla belâsını bersin!— Karimni tutıp, quçaqladı,— sen altın adamsıñ!— dedi oña,— alla saña güzel qadın qısmet etsin.
+— Ketti...— dedi Mansurov.
+— Alla belâsını bersin!— Karimni tutıp, quçaqladı,— sen altın adamsıñ!— dedi oña,— alla saña güzel qadın qısmet etsin.
 Doquz balañız olsun, Añladıñmı, Karim?
 Yedisi oğlan, ekisi qız!
 
@@ -373,7 +382,8 @@ Men bosağa üstünde toqtaldım.
 İçeri kirmege saqınıp, baqıp turdım.
 Tamağımnı nedir sıqtı... laqırdı etalmadım.
 
-Keldiñizmi, Cevdet?— İlki sözlerni söylemek oña da qolay degil edi. — Siz menim evimni körmek istegen ediñiz, hatiriñizdemi?
+Keldiñizmi, Cevdet?— İlki sözlerni söylemek oña da qolay degil edi.
+— Siz menim evimni körmek istegen ediñiz, hatiriñizdemi?
 
 Bu ne vaqıt olğan şey?
 Hatirimde yoq!
@@ -394,7 +404,8 @@ Men gizliden külümsiredim.
 İrada kene qızardı.
 
 — Sizni çoq qıdırdım,— dedi qız.
-Elbette, bir şeyler etip, laqırdını başlamaq kerek edi. — Miting bitken soñ ğaip ettim.
+Elbette, bir şeyler etip, laqırdını başlamaq kerek edi.
+— Miting bitken soñ ğaip ettim.
 Karamat!— dep qıçırdı o, qomşu odağa.
 Karamat kirdi,— barakqa qaç kere barıp keldiñ?
 
@@ -406,9 +417,10 @@ Albu ise Andrey Zaharoviçde otura eken.
 — Kene Yekaterina Vasilyevnamı?— İradanıñ davuşında bu sefer can ağrısı sezilmedi,— alla belâsını bersin onıñ, lâkin bugün bayram, Cevdet!
 Öpkelenilecek kün degil.
 
-— Ziyafette Karamat da bar edi,— dedim men.— Niçün bir şey aytmadı?
+— Ziyafette Karamat da bar edi,— dedim men.
+— Niçün bir şey aytmadı?
 
-— Sebebi bar. — Karamat yalq etip İradanıñ közlerine baqtı.
+— Sebebi bar, — Karamat yalq etip İradanıñ közlerine baqtı.
 Aytayımmı?
 
 — Ayt!
@@ -430,8 +442,8 @@ Daima diñlenip oturacaq.
 
 Karamat bir şeyler daa ayttı, men añlamadım.
 Zeinim İradanıñ közlerinen meşğul edi.
-O bugun çoq güzel.
-Ne söylese, ne yapsa, hoşnutlıq vö sevinç, zevq, dülberlik saçılmaqta.
+O bugün çoq güzel.
+Ne söylese, ne yapsa, hoşnutlıq vе sevinç, zevq, dülberlik saçılmaqta.
 
 Kene sözsiz, areketsiz oturdıq.
 Soñ, ne munasebetnen bilmem, Bassaraba aqqında laqırdı etip aldıq, men Arhipkanen olğan vaqianı ikâye ettim.
@@ -443,7 +455,8 @@ Yanımda kene Karamat peyda oldı.
 
 — Cevdet,— dedi o.
 Karamatnı añlamaq qolay degil.
-Kimerde Cevdet aka dey, kimerde Cevdet...— Sizge bir şey aytayımmı?
+Kimerde Cevdet aka dey, kimerde Cevdet...
+— Sizge bir şey aytayımmı?
 Özüñizniñ injeneriñiznen işiñizni tez-tez bitiriñiz!
 Yoqsa, mesele leylek ile turna masalına beñzep başladı.
 Hatiriñizdemi?
@@ -473,8 +486,8 @@ Karamat meni añladı.
 Men öz başımda qaldım.
 Şukur, er şey öz yerini taptı.
 Taqdirim çezildi.
-Çezildimi aceba? 
-Poldaki kilim üstüne yatıp yuvarlanacağım keldi.
+Çezildimi aceba?
+%
 
 Qomşu oda içinden savut-saba sesleri işitildi.
 Soñ İrada köründi.
@@ -489,7 +502,8 @@ Karamat bizni bu vaziyetten qurtardı.
 Beline büyük yağbez bağlağan, içeri yıldırım suratınen kirdi, maña ve İradağa tiklenip baqtı:
 
 — Keder etmedimmi?— dep soradı.
-İrada indemedi. — Özbek yemekleri pişirdik, lâkin nasıl olıp çıqtılar, bilmeymiz.
+İrada indemedi.
+— Özbek yemekleri pişirdik, lâkin nasıl olıp çıqtılar, bilmeymiz.
 Küle-küle öleyazdıq.
 Stol donatmaqnı da bilmeymiz.
 Ne men, ne İrada.
@@ -497,13 +511,14 @@ Ne men, ne İrada.
 Karamat şay degen soñ, epimiz kuhnâğa kettik.
 Men çuçvara tarelkalarını birer-birer ketirip stol üstüne qoydım, qalğanlarını İrada ve Karamat taşıdılar.
 
-Aşnı pişire bergenler.
+%
 Qoymağa yer yoq.
 Balaban stolnıñ üstünde yer qalmağan soñ, yanaşadaki örnekli sandıqnıñ üstüne de toldı.
 Lâkin, bu — başlanğıç.
 Yarısından ziyadesi kuhnâda.
 
-— Afu etiñiz, Cevdet!— dedi İrada. — Cemiyetimiz pek büyük degil.
+— Afu etiñiz, Cevdet!— dedi İrada.
+— Cemiyetimiz pek büyük degil.
 Beklemege başqa kişimiz yoq.
 Bu yaqqa oturıñız.
 
@@ -511,7 +526,8 @@ Körsetilgen yerge oturdım.
 Yanıma İrada oturdı.
 Qarşımızda Karamat yerleşti.
 
-— Ekiñizni de körip oturmaq isteyim,— dedi Karamat. — Buyurıñız, Cevdet aka!
+— Ekiñizni de körip oturmaq isteyim,— dedi Karamat.
+— Buyurıñız, Cevdet aka!
 Sıqılmañız!
 Öz eviñizdeki kibi aşañız!
 Ebet, ebet!
@@ -537,7 +553,7 @@ Bu menim yapıp olacaq şeyim degil.
 Elnen iş körmek mümkünmi?
 
 Karamat özüni tutalmadı, şırq-şırq etip küldi.
-İrada ise başını egiltti, yüzüni stol ar-tına gizledi.
+İrada ise başını egiltti, yüzüni stol artına gizledi.
 Omuzlarınıñ küçlü ve sıq-sıq silkine bergenlerini körgende, onıñ da sıqılıp qalğanını sezdim.
 
 — Rica etem...— dedi Karamat, közlerindeki yaşlarnı silmekte olıp,— bu, kerçekten de, ceennem azabı.
@@ -546,7 +562,8 @@ Omuzlarınıñ küçlü ve sıq-sıq silkine bergenlerini körgende, onıñ da s
 Medeniyetsizlik derler.
 Buña aqılıñ yetmeymi?
 
-— Qaşıq yahut vilkanen aşalması mümkün şeyni qolnen almaq, elbette, kelişken şey degil,— dedi Karamat. — Bu medeniyetsizlik.
+— Qaşıq yahut vilkanen aşalması mümkün şeyni qolnen almaq, elbette, kelişken şey degil,— dedi Karamat.
+— Bu medeniyetsizlik.
 Amma manti, vilkanen aşamaq mümkün degil eken, niçün elnen aşalmasın?— kene şaq-şaq küldi.
 
 Eki manti aşadım...
@@ -558,12 +575,12 @@ Menimnen selâmlaştı, İrada ve Karamatqa baqıp, gizliden külümsiredi, yeme
 Yemeklerden memnun qaldımı-yoqmı, qızlar añlap olamadılar.
 
 — Kelgeniñiz pek yahşı oldı, hala!— dedi Karamat,— men endi musafir ola bilem.
-Öz eviñde tarelka taşı, mında tarelka taşı... men sizge nem?
+Öz eviñde tarelka taşı, mında tarelka taşı... men sizge ne?
 
 — Men seni tarelka taşımağa mecbur ettimmi?— İrada iddetlendi,— seni añlamaq mümkün degil.
 Yuvurıp kelip, qıyma çekesiñ, qartop doğraysıñ, soñ şikâyetlenesiñ!
 
-Sabira hala qızlarnıñ davasını diñlep oturmadı; onı çoq işitken... aşhanadan ketirgen salqın ürük qoşafınen bizni sıyladı.
+Sabira hala qızlarnıñ davasını diñlep oturmadı; onı çoq işitken... aşhanеdеn ketirgen salqın ürük qoşafınen bizni sıyladı.
 Ondan soñ tatlınen çay içtik.
 Plotina ne yerde olacağı hususında İrada ile biraz davalaşıp aldıq.
 Böyle ne qadar daa oturır edik, bilmeyim.
@@ -581,7 +598,9 @@ Gidromonitorğa beñzey.
 İrada köridorğa çıqtı.
 Eki-üç daqiqa keçken soñ, qaytıp keldi.
 
-— Tehnikiy bölük kişisi,— dedi o, Sabira halağa. — Anna Yakovlevna yibergen. — Kız menim közlerime qasevetli-qasevetli baqtı,— ne yapacaqmız?
+— Tehnikiy bölük kişisi,— dedi o, Sabira halağa.
+— Anna Yakovlevna yibergen.
+— Kız menim közlerime qasevetli-qasevetli baqtı,— ne yapacaqmız?
 Qolaysız olıp çıqacaq... lâkin ketmesem, olmaycaq.
 Meni afu etiñiz, Cevdet!
 Barıp baqıp keleyim.
@@ -594,7 +613,8 @@ Karamat, qaydasıñ?
 Menim artımdan qapunı kilitle, kimse tışarı çıqmasın.
 Añladıñmı?
 
-— Baş üstünde!— o sol eliniñ dört parmağını samaylarına tayadı. — Men sağ ekenim, bu qalanıñ içinden tışarı kimse çıqalmaz.
+— Baş üstünde!— o sol eliniñ dört parmağını samaylarına tayadı.
+— Men sağ ekenim, bu qalanıñ içinden tışarı kimse çıqalmaz.
 
 İrada külip-siyarıp qaldı.
 O teri paltosını kiydi, maña elini yengilden salladı, çıqıp ketti.
@@ -628,7 +648,8 @@ Nesi çıbalıq?— dep cekirdim men,— ne demek isteysiñiz?
 Qıznı çekiştirme!
 
 — Açıñız qapunı, Karamat!— dedim men.
-Qız yavaştan yerinden turdı, menim peşimden köridorğa çıqtı. — Men mında ahret sualine cevap bermek içün kelmedim.
+Qız yavaştan yerinden turdı, menim peşimden köridorğa çıqtı.
+— Men mında ahret sualine cevap bermek içün kelmedim.
 
 "Qaladan çıqmaq..." qıyın olmadı, Barakqa keteyatqanda Krasnânskayanıñ kabineti penceresinden baqtım, içerisi qaranlıq — kimse yoq edi.
 Soñ Anna Yakovlevnanıñ evine kettim, mında da pencereler qaranlıq, çım-çırt edi.
